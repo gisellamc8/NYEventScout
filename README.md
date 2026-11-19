@@ -4,7 +4,9 @@ Created by Gisella Castillo and Dereck Marquez
 
 **Description**:
 Ask about someone's career, then find the fairs, conferences and events that fit
-This notebook turns the Food Analyzer lab into a career-event matching app. The app:
+This notebook turns the Food Analyzer lab into a career-event matching app. 
+
+The app:
 
 asks what the user is looking for — networking, job hunting, internships, learning new skills, exploring a career, mentorship, or a career change;
 asks for their job title or major, and their year in college if they are a student;
