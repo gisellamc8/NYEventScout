@@ -2,7 +2,7 @@
 
 Created by Gisella Castillo and Dereck Marquez
 
-**Description**
+**Description**:
 Ask about someone's career, then find the fairs, conferences and events that fit
 This notebook turns the Food Analyzer lab into a career-event matching app. The app:
 
